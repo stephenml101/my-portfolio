@@ -1,3 +1,5 @@
-# Modify this portfolio
+# Welcome to my portfolio! 
 
-Make it your own! 
+## To visit my site, please [CLICK HERE](https://stephenml-portfolio.netlify.app/)
+
+
